@@ -1,0 +1,6 @@
+outlines
+torch
+librosa
+soundfile
+transformers
+numpy
